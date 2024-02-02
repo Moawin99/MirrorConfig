@@ -1,0 +1,34 @@
+
+> magicmirror@2.14.0 start /mnt/c/Users/Mark/Documents/gitProjects/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+/mnt/c/Users/Mark/Documents/gitProjects/MagicMirror/node_modules/electron/dist/electron: error while loading shared libraries: libnss3.so: cannot open shared object file: No such file or directory
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! magicmirror@2.14.0 start: `DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the magicmirror@2.14.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/mark/.npm/_logs/2021-03-24T02_24_58_282Z-debug.log
+
+> magicmirror@2.14.0 start /mnt/c/Users/Mark/Documents/gitProjects/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+/mnt/c/Users/Mark/Documents/gitProjects/MagicMirror/node_modules/electron/dist/electron: error while loading shared libraries: libnss3.so: cannot open shared object file: No such file or directory
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file sh
+npm ERR! errno ENOENT
+npm ERR! magicmirror@2.14.0 start: `DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the magicmirror@2.14.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/mark/.npm/_logs/2021-03-29T17_51_03_470Z-debug.log
